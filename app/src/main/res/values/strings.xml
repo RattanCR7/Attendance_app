@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">attendance</string>
+
+    <array name="Course">
+        <item>Electronics Engg.</item>
+        <item>Chemical Engg.</item>
+        <item>Computer Science</item>
+        <item>Information Technology</item>
+        <item>Mechanical Engg.</item>
+        <item>Communication Engg.</item>
+    </array>
+</resources>
