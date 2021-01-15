@@ -1,3 +1,5 @@
+Download the above attendance.apk file in your android smartphone to use this app.
+
 Login and signup page.
 
 ![](images/slide_1.jpg)
